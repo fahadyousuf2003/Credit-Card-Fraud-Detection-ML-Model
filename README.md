@@ -11,7 +11,6 @@ This repository contains a machine learning model for fraud detection using a Ra
 - [Results](#results)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
